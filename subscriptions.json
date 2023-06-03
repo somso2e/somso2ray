@@ -1,0 +1,22 @@
+{
+    "subscriptions": [
+        {
+            "Address": "https://proxy.yugogo.xyz/vmess/sub",
+            "Group": "yugogo",
+            "Last Updated": "2023/05/20 14:58",
+            "Status": "121 Servers"
+        },
+        {
+            "Address": "https://muddy-sky-648c.somso2e4609.workers.dev/sub/104.25.35.83",
+            "Group": "muddy2",
+            "Last Updated": "2023/05/19 10:05",
+            "Status": "Updating..."
+        },
+        {
+            "Address": "",
+            "Group": "",
+            "Last Updated": "",
+            "Status": ""
+        }
+    ]
+}
